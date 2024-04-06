@@ -43,6 +43,7 @@ public class ImageManipulation {
         picture.draw();
     }
 
+
     /** A helper method that can be used to assist you in each challenge.
      * This method simply calculates the average of the RGB values of a single pixel.
      * @param pixel
